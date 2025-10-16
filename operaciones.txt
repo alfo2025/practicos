@@ -1,0 +1,13 @@
+# ejemplo de operaciones para la cola
+ENQ 10
+ENQ 20
+ENQ 30
+DEQ
+ENCOLAR 40
+DEQUEUE
+DEQ
+DEQ
+# intentar desencolar más de la cuenta
+DEQ
+ENQ hola
+ENQ mundo

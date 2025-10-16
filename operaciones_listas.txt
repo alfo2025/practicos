@@ -1,0 +1,11 @@
+# ejemplo operaciones para lista enlazada simple
+INSERT 10
+INSERT 20
+APPEND 5
+APPEND 7
+REMOVE 20
+POP
+INSERT hola
+APPEND mundo
+REMOVE xyz
+# fin

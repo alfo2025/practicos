@@ -1,0 +1,10 @@
+# ejemplo operaciones pila
+PUSH 1
+PUSH 2
+PUSH 3
+POP
+PUSH hola
+POP
+POP
+POP
+PUSH final
